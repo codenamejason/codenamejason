@@ -1,4 +1,4 @@
 `<jaxcoder />`
 
 ## Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codenamejason&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=codenamejason)](https://git.io/streak-stats)
