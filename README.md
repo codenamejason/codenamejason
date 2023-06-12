@@ -18,3 +18,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamejason&layout=compact)
 
+
+![Made with love in Florida](https://madewithlove.now.sh/us?colorA=%23351fdb)
+
+
+![VisitorCount](https://profile-counter.glitch.me/codenamejason/count.svg)
+
+
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
