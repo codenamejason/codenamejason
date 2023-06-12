@@ -12,6 +12,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=jaxcoder-xyz)](https://github.com/codenamejason/jaxcoder-xyz)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=Dinosours-web)](https://github.com/codenamejason/Dinosours-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=cross-chain-poc)](https://github.com/codenamejason/cross-chain-poc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=hardhat-contracts)](https://github.com/codenamejason/hardhat-contracts)
+
 
 ## Stats
 ![Jaxcoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=codenamejason&show_icons=true&theme=tokyonight)
