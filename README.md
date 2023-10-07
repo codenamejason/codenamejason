@@ -8,7 +8,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/codenamejason?style=social)
 
 ## Pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=allo-contract-sandbox)](https://github.com/codenamejason/allo-contract-sandbox)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=jaxcoder-xyz)](https://github.com/codenamejason/jaxcoder-xyz)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=Dinosours-web)](https://github.com/codenamejason/Dinosours-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=cross-chain-poc)](https://github.com/codenamejason/cross-chain-poc)
