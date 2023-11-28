@@ -9,9 +9,9 @@
 
 ## Pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=jaxcoder-xyz)](https://github.com/codenamejason/jaxcoder-xyz)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=Dinosours-web)](https://github.com/codenamejason/Dinosours-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=cross-chain-poc)](https://github.com/codenamejason/cross-chain-poc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=hardhat-contracts)](https://github.com/codenamejason/hardhat-contracts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=Foundry-Starter-Kit)]([https://github.com/codenamejason/Dinosours-web](https://github.com/codenamejason/Foundry-Starter-Kit))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=se-2)](https://github.com/codenamejason/se-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=allo-workshop-1)](https://github.com/codenamejason/allo-workshop-1)
 
 
 ## Stats
