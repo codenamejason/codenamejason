@@ -17,7 +17,7 @@
 ## Stats
 ![Jaxcoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=codenamejason&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamejason&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamejason&layout=donut)
 
 
 ![Made with love in Florida](https://madewithlove.now.sh/us?colorA=%23351fdb)
@@ -25,7 +25,8 @@
 
 ![VisitorCount](https://profile-counter.glitch.me/codenamejason/count.svg)
 
-
+[![ForTheBadge compatibility-betamax](https://forthebadge.com/images/badges/compatibility-betamax.svg)](https://forthebadge.com)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-[![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+[![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![ForTheBadge fuck-it-ship-it](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+[![ForTheBadge contains-cat-gifs](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
