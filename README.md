@@ -1,7 +1,5 @@
 ` <jaxcoder /> `
 
-<a href="https://gitroll.io/profile/uJvduklJ5gtfBaWq5NKiTrOoGrGE2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uJvduklJ5gtfBaWq5NKiTrOoGrGE2" alt="GitRoll Profile Badge"/></a>
-
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/gpl-license.php)
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
