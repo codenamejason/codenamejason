@@ -40,8 +40,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/codenamejason/allo-workshop-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=allo-workshop-1" alt="Readme Card" />
+        <a href="https://github.com/codenamejason/degen-indexer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=degen-indexer" alt="Readme Card" />
         </a>
       </td>
     </tr>
