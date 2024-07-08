@@ -1,22 +1,66 @@
-` <jaxcoder /> `
+<h4 style="text-align: center;">&lt;jaxcoder /&gt;</h4>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/gpl-license.php)
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
-![GitHub followers](https://img.shields.io/github/followers/codenamejason?style=social)
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 5px;">
+  <a href="https://github.com/ellerbrock/open-source-badges/">
+    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love" />
+  </a>
+  <a href="https://opensource.org/licenses/gpl-license.php">
+    <img src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103" alt="GPL Licence" />
+  </a>
+  <a href="https://github.com/ellerbrock/open-source-badges/">
+    <img src="https://badges.frapsoft.com/bash/v1/bash.png?v=103" alt="Bash Shell" />
+  </a>
+  <a href="https://github.com/ellerbrock/typescript-badges/">
+    <img src="https://badges.frapsoft.com/typescript/code/typescript.png?v=101" alt="TypeScript" />
+  </a>
+  <img src="https://img.shields.io/github/followers/codenamejason?style=social" alt="GitHub followers" />
+</div>
+
 
 ## Pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=jaxcoder-xyz)](https://github.com/codenamejason/jaxcoder-xyz)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=Foundry-Starter-Kit)]([https://github.com/codenamejason/Dinosours-web](https://github.com/codenamejason/Foundry-Starter-Kit))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=se-2)](https://github.com/codenamejason/se-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=allo-workshop-1)](https://github.com/codenamejason/allo-workshop-1)
+<div style="text-align: center;">
+  <table style="margin: auto;">
+    <tr>
+      <td>
+        <a href="https://github.com/codenamejason/jaxcoder-xyz">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=jaxcoder-xyz" alt="Readme Card" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/codenamejason/Foundry-Starter-Kit">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=Foundry-Starter-Kit" alt="Readme Card" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/codenamejason/se-2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=se-2" alt="Readme Card" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/codenamejason/allo-workshop-1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=allo-workshop-1" alt="Readme Card" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ## Stats
-![Jaxcoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=codenamejason&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamejason&layout=donut)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=codenamejason&show_icons=true&theme=tokyonight" alt="Jaxcoder's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenamejason&layout=donut" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 
 ![Made with love in Florida](https://madewithlove.now.sh/us?colorA=%23351fdb)
@@ -29,3 +73,4 @@
 [![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![ForTheBadge fuck-it-ship-it](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
 [![ForTheBadge contains-cat-gifs](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/code-it-break-it-fix-it.svg)](https://forthebadge.com)
