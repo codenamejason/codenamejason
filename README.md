@@ -18,35 +18,6 @@
 </div>
 
 
-## Pins
-<div style="text-align: center;">
-  <table style="margin: auto;">
-    <tr>
-      <td>
-        <a href="https://github.com/codenamejason/jaxcoder-xyz">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=jaxcoder-xyz" alt="Readme Card" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/codenamejason/Foundry-Starter-Kit">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=Foundry-Starter-Kit" alt="Readme Card" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/codenamejason/se-2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=se-2" alt="Readme Card" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/codenamejason/degen-indexer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codenamejason&repo=degen-indexer" alt="Readme Card" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
