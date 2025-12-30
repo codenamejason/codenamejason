@@ -37,11 +37,11 @@
 ![Made with love in Florida](https://madewithlove.now.sh/us?colorA=%23351fdb)
 
 
-![VisitorCount](https://profile-counter.glitch.me/codenamejason/count.svg)
-
 [![ForTheBadge compatibility-betamax](https://forthebadge.com/images/badges/compatibility-betamax.svg)](https://forthebadge.com)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![ForTheBadge fuck-it-ship-it](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
 [![ForTheBadge contains-cat-gifs](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/code-it-break-it-fix-it.svg)](https://forthebadge.com)
+[![ForTheBadge powered-by-coffee](https://forthebadge.com/badges/powered-by-coffee.svg)](https://forthebadge.com)]
+[![ForTheBadge contains-cat-gifs](https://forthebadge.com/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
+
